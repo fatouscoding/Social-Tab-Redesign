@@ -78,6 +78,9 @@ Presented concepts to director of product and incorporated feedback into subsequ
 
 Refined the interface based on feedback, focusing on reducing clutter, improving navigation, and creating a more cohesive user experience.
 
+## Impact 
+Presented the redesign strategy to the Director of Product and CEO, highlighting its potential to help market the platform to government campaign teams. The proposal was included in the product roadmap for future development.
+
 ## Key Takeaways
 
 This project strengthened my experience at the intersection of product management, UX research, and design. It required balancing user needs, business considerations, and technical feasibility while iterating toward a more intuitive product experience.
