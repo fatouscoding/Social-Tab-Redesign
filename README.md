@@ -1,39 +1,31 @@
 # Social-Tab-Redesign
-Redesigned Civic’s Social Tab to create a cleaner, more intuitive social experience through UI/UX research, competitive analysis, and iterative product design.
+Redesigned Civic’s Social Tab to create a cleaner, more intuitive experience for managing and surfacing social content through UI/UX research, competitive analysis, prototyping, and iterative product design.
 
 ## Overview
 
-As part of my product work at Civic, I worked on redesigning the platform's Social Tab to address usability and information-density issues in the existing experience.
+As part of my product work at Civic, I redesigned the platform’s Social Tab to address usability and information-density issues in the existing experience.
 
-The original interface felt underused and made it difficult to efficiently navigate social content. I explored different approaches to improve content organization, navigation, and overall usability while keeping the experience aligned with Civic's broader product ecosystem.
+The existing interface left opportunities to improve how social content was organized, navigated, and surfaced. I explored multiple design directions to create a more intuitive experience while maintaining the functionality and broader structure of Civic’s platform.
 
 ## My Role
 
 **Product Management & UX**
 
-* Conducted UI/UX research and competitive analysis
-* Evaluated the existing Social Tab experience and identified usability issues
-* Developed and iterated on redesign concepts
-* Created figma prototypes and explored alternative architectures
-* Incorporated feedback through multiple design iterations
+* Evaluated the existing Social Tab and identified usability and information-architecture issues
+* Conducted UI/UX and competitive research to identify opportunities for improvement
+* Explored multiple product and layout concepts in Figma
+* Created interactive prototypes to communicate and evaluate design directions
+* Collaborated with the Director of Product and incorporated feedback across multiple iterations
+* Developed product requirements and user stories to support the proposed experience
 
-## Tab before redesign 
+## Before Redesign 
+The existing Social Tab had opportunities to improve content organization, navigation, and use of available space.
 <img width="1561" height="982" alt="Screenshot 2026-06-29 091054" src="https://github.com/user-attachments/assets/63ab81e5-3031-416a-835b-9fc4264cab38" />
 <img width="1493" height="936" alt="Screenshot 2026-06-29 091128" src="https://github.com/user-attachments/assets/2572e853-bf5e-4562-820b-7304a52cc441" />
 
-## Demonstration of redesign
+## The Problem
 
-<img width="854" height="589" alt="Screenshot 2026-06-11 102751" src="https://github.com/user-attachments/assets/55703bd1-0608-40ed-ac3c-618e7f5da591" />
-<img width="848" height="620" alt="Screenshot 2026-06-11 103607" src="https://github.com/user-attachments/assets/3373306b-c79b-4371-9c3b-ea62c0058010" />
-<img width="840" height="627" alt="Screenshot 2026-06-11 103745" src="https://github.com/user-attachments/assets/052709e3-fadc-4baf-b3c7-5c6a541e86fa" />
-<img width="1060" height="640" alt="Screenshot 2026-09-07 203611" src="https://github.com/user-attachments/assets/efce1cb7-34fe-4dd9-92c3-0dc16e561be3" />
-
-
-
-
-## Problem
-
-The existing Social Tab wasn't efficiently utilizing its space on the platform to best help officials update the community on policy change and outreach. 
+The existing experience did not make the most effective use of available space or provide an intuitive way to organize and navigate social content.
 
 The redesign focused on answering:
 
@@ -51,6 +43,16 @@ I explored multiple approaches to improve the experience, including:
 * Reworking the drafts and calendar experience
 * Reducing visual density and unnecessary elements
 * Improving the overall information architecture
+
+## Demonstration of redesign
+The final concepts focused on creating a cleaner information hierarchy, making content easier to navigate, and improving how users interact with drafts, scheduled content, and social posts.
+
+<img width="854" height="589" alt="Screenshot 2026-06-11 102751" src="https://github.com/user-attachments/assets/55703bd1-0608-40ed-ac3c-618e7f5da591" />
+<img width="848" height="620" alt="Screenshot 2026-06-11 103607" src="https://github.com/user-attachments/assets/3373306b-c79b-4371-9c3b-ea62c0058010" />
+<img width="840" height="627" alt="Screenshot 2026-06-11 103745" src="https://github.com/user-attachments/assets/052709e3-fadc-4baf-b3c7-5c6a541e86fa" />
+<img width="1060" height="640" alt="Screenshot 2026-09-07 203611" src="https://github.com/user-attachments/assets/efce1cb7-34fe-4dd9-92c3-0dc16e561be3" />
+
+
 
 ## Process
 
