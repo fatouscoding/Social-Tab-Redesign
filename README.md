@@ -17,6 +17,20 @@ The original interface felt underused and made it difficult to efficiently navig
 * Created figma prototypes and explored alternative architectures
 * Incorporated feedback through multiple design iterations
 
+## Tab before redesign 
+<img width="1561" height="982" alt="Screenshot 2026-06-29 091054" src="https://github.com/user-attachments/assets/63ab81e5-3031-416a-835b-9fc4264cab38" />
+<img width="1493" height="936" alt="Screenshot 2026-06-29 091128" src="https://github.com/user-attachments/assets/2572e853-bf5e-4562-820b-7304a52cc441" />
+
+## Demonstration of redesign
+
+<img width="854" height="589" alt="Screenshot 2026-06-11 102751" src="https://github.com/user-attachments/assets/55703bd1-0608-40ed-ac3c-618e7f5da591" />
+<img width="848" height="620" alt="Screenshot 2026-06-11 103607" src="https://github.com/user-attachments/assets/3373306b-c79b-4371-9c3b-ea62c0058010" />
+<img width="840" height="627" alt="Screenshot 2026-06-11 103745" src="https://github.com/user-attachments/assets/052709e3-fadc-4baf-b3c7-5c6a541e86fa" />
+<img width="1060" height="640" alt="Screenshot 2026-09-07 203611" src="https://github.com/user-attachments/assets/efce1cb7-34fe-4dd9-92c3-0dc16e561be3" />
+
+
+
+
 ## Problem
 
 The existing Social Tab wasn't efficiently utilizing its space on the platform to best help officials update the community on policy change and outreach. 
